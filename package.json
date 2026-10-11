@@ -1,0 +1,1 @@
+{"name":"artesanal-pizzaria","version":"2.0.0","private":true,"description":"Site estático da Artesanal Pizzaria","scripts":{"dev":"npx serve .","start":"npx serve .","dominio":"node scripts/aplicar-dominio.js"}}
